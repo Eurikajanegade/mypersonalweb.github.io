@@ -144,11 +144,14 @@ p{
 	box-sizing: border-box;	
 	transition: 0.5s;
 }
-h3{
+.h3{
 	text-align: center;
 	text-decoration: none;
 	font-weight: 600;
 	margin: 10px 0;
+}
+.a{
+      text-decoration: none;
 }
 .act-col2:hover{
 	box-shadow: 0 0 40px 0px rgba(0, 0, 0, 0.4);
