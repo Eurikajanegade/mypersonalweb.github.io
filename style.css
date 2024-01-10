@@ -4,7 +4,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 .header {
-    background:url(pics/bgwebhome.png) no-repeat;
+    background:url(bgwebhome.png) no-repeat;
     min-height: 100vh;
     width: 100%;
     background-position: center;
